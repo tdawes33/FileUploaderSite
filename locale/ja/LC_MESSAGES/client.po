@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "send label"
+msgstr "送信"
+
+msgid "send tooltip"
+msgstr "E メールと添付ファイルのアップロードを開始する"
+
+msgid "clear tooltip"
+msgstr "E メールフォームをクリアし、添付ファイルをすべて削除する"
+
+msgid "paused tooltip"
+msgstr "未配信のメール一覧を表示する"
+
+msgid "history tooltip"
+msgstr "E メール送信履歴ページを表示する"
+
+msgid "addressbook tooltip"
+msgstr "Mアドレス帳を開く"
+
+msgid "preferences tooltip"
+msgstr "プリファレンスを表示する"
+
+msgid "help tooltip"
+msgstr "ヘルプ画面を開く"
+
+msgid "to label"
+msgstr "宛先:"
+
+msgid "to tooltip"
+msgstr "複数のメールアドレスを加えるには、; を間に入れてください。"
+
+msgid "subject label"
+msgstr "件名:"
+
+msgid "delete label"
+msgstr "削除する"
+
+msgid "delete tooltip"
+msgstr "リストから、選択したファイルを削除します。"
+
+msgid "file browse label"
+msgstr "ファイルの選択"
+
+msgid "file browse tooltip"
+msgstr "ファイル・ブラウザーからファイルを選択します。[Ctrl]キーを押しながら複数のファイルを選択できます。[Shift]キーを押しながら、連続したファイルを選択できます。"
+
+msgid "filename header" 
+msgstr "ファイル"
+
+msgid "size header"
+msgstr "サイズ"
+
+msgid "path header"
+msgstr "パス"
+
+msgid "zip archive menuitem" 
+msgstr "アーカイブを作成する"
+
+msgid "delete menuitem"
+msgstr "削除する"
+
+msgid "paste menuitem"
+msgstr "貼り付け"
+
+msgid "select all menuitem"
+msgstr "すべて選択"
+
+msgid "archive label"
+msgstr "フォルダをまとめて送信"
+
+msgid "archive tooltip"
+msgstr "フォルダごとまとめて送信する"
+
+msgid "compress label"
+msgstr "ファイルを個別に圧縮送信"
+
+msgid "compress tooltip"
+msgstr "フォルダ内のファイルを個別に圧縮して送信する"
+
+msgid "ssl label"
+msgstr "暗号化してアップロード"
+
+msgid "ssl tooltip"
+msgstr "セキュリティ保護された接続環境で E メールと添付ファイルを配信する"
+
+msgid "download notice label"
+msgstr "ダウンロード通知"
+
+msgid "download notice tooltip"
+msgstr "受信者が添付ファイルのダウンロードを開始した際に通知を送る"
+
+msgid "preservation label"
+msgstr "日間保存"
+
+msgid "preservation tooltip"
+msgstr "転送するファイルのダウンロード可能期間"
+
+msgid "password label"
+msgstr "パスワード保護"
+
+msgid "password tooltip"
+msgstr "ダウンロードを保護するためのオプションとしてパスワードを入力してください。受信者は別メールでパスワードを受け取ります。"
+
+msgid "invalid password msg"
+msgstr "パスワードは４～１０文字で設定してください。"
+
+msgid "files submit info"
+msgstr "合計 : "
+
+msgid "invalid email msg"
+msgstr "有効な E メールアドレスを入力してください"
+
+msgid "no attachments msg"
+msgstr "Mの送信には必ず1つ以上の添付ファイルが必要です。"
+
+msgid "empty subject warn"
+msgstr "件名が未記入です。"
+
+msgid "empty message warn"
+msgstr "E メール本文のメッセージが未記入です。"
+
+msgid "confirm send"
+msgstr "このまま送信しますか？"
+
+msgid "txing"
+msgstr "送信 "
+
+msgid "total progress label"
+msgstr "アップロード状況"
+
+msgid "cancel send"
+msgstr "キャンセル"
+
+msgid "pause send"
+msgstr "一時停止"
+
+msgid "resume send"
+msgstr "再開"
+
+msgid "finished"
+msgstr "完了"
+
+msgid "unable"
+msgstr "OK"
+
+msgid "one"
+msgstr "1"
+
+msgid "three"
+msgstr "3"
+
+msgid "five"
+msgstr "5"
+
+msgid "seven"
+msgstr "7"
+
+msgid "confirm clear"
+msgstr "入力した情報はクリアされます。よろしいですか？"
+
+msgid "message exceeds msg"
+msgstr "このメールのメッセージ本文が長すぎます"
+
+msgid "subject exceeds msg"
+msgstr "このメールの件名が長すぎます。最大入力文字数："
+
+msgid "recipients exceeds msg"
+msgstr "このメールの受信者の入力が長すぎます。最大入力文字数："
+
+msgid "processing"
+msgstr "添付ファイルを送信中。（クリックすると中断します）"
+
+msgid "processing complete"
+msgstr "処理が完了しました"
+
+msgid "confirm processing abort"
+msgstr "ファイルの処理を中止しますか？"
+
+msgid "no email during processing"
+msgstr "添付ファイルを処理中です。少々お待ちください。"
+
+msgid "unsent warning"
+msgstr "メッセージはまだ送信されていません。このまま終了しますか？"
+
+msgid "emailing warning"
+msgstr "E メールのアップロードが進行中です。このまま継続するとアップロードが終了します。"
+
+msgid "java required"
+msgstr "%1$s をご利用いただくためには、%2$s 以上が必要となります。現在ご利用のブラウザには Java がインストールされていないか、Java の設定が異なります。"

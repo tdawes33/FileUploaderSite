@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+				"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>SendInc.com: Download redirect</title>
+	<script type="text/javascript" src="../js/i18n.js"></script>
+    <script type="text/javascript">
+        var redirect = "/scripts/Inc/Inc/MMDL.dll?Command=View&Page=Download&Code=";
+        var language = "";
+        var optionalQuery = "";
+
+        var query = location.href.substring(location.href.lastIndexOf("?") + 1);
+        var code = query.substring(0, query.indexOf("&"));      //first query must be the code, and it has no associated name
+
+        //look for valid language value, allow other query name:value pairs
+        query = query.substring(query.indexOf("&") + 1).split("&");
+        for (var i=0; i < query.length; i++) {
+            var name = "";
+            var value = "";
+            var pos = query[i].indexOf('=');          // Look for "name=value" 
+
+            if (pos != -1) {
+                name = query[i].substring(0,pos);  // Extract the name 
+                value = query[i].substring(pos+1);
+
+                if (name.toLowerCase() === "language") { 
+                    value = value.charAt(0).toUpperCase() + value.substr(1).toLowerCase();
+                    for (var j in languages) {
+                        if (languages[j] === value) {
+                            language = value;
+                            break;
+                        }
+                    }
+                } else if (value.length > 0) {
+                    optionalQuery += "&" + query[i];
+                }
+            }
+        }
+        if (language.length  === 0)
+            language = getBrowserLanguage();
+        
+        redirect += code + "&Language=" + language + optionalQuery;
+        window.location.href = redirect;
+    </script>
+</head>
+<body>&nbsp;</body>
+</html>

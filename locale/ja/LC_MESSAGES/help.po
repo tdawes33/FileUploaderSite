@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#, c-format Inc Help
+msgid "help title"
+msgstr "%1$s Help"
+
+msgid "help composing title"
+msgstr "Composing"
+
+msgid "help attachments title"
+msgstr "Attachments"
+
+msgid "help sending title"
+msgstr "Sending"
+
+msgid "help resuming title"
+msgstr "Pause/Resume"
+
+msgid "help toolbar title"
+msgstr "The Toolbar"
+
+msgid "help settings title"
+msgstr "Settings"
+
+msgid "help history title"
+msgstr "History"
+
+msgid "help security title"
+msgstr "Security"
+
+msgid "help composing recipients"
+msgstr "Adding file attachments can be accomplished "
+
+msgid "help composing subject"
+msgstr "Adding file attachments can be accomplished "
+
+msgid "help attachments"
+msgstr "Adding file attachments can be accomplished "

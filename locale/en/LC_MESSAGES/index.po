@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#Inc <span class="highlight"> is an easy and secure way to transfer large computer files </span> from one computer to another using the Internet. Inc is a browser-based applet which can transfer large files from one person to another.
+#, c-format
+msgid "pitch one"
+msgstr "%1$s %3$s is an easy and secure way to transfer large computer files %4$s from one computer to another using the Internet. %2$s is a browser-based applet which can transfer large files from one person to another."
+
+# "By sending file(s) to the server through our unique protocol, the sender can transfer the data to the server in a secure environment.{Inc} is the perfect tool for companies that have a server that cannot send large file(s) or that have a capacity limitation on the server."
+#, c-format
+msgid "pitch two"
+msgstr "By sending file(s) to the server through our unique protocol, the sender can transfer the data to the server in a secure environment. %1$s is the perfect tool for companies that have a server that cannot send large file(s) or that have a capacity limitation on the server."
+
+msgid "feature header"
+msgstr "Inc Features"
+
+msgid "feature 0"
+msgstr "Supports all file types."
+
+msgid "feature 1"
+msgstr "Email receipt notification."
+
+msgid "feature 2"
+msgstr "Works with all Email services."
+
+msgid "feature 3"
+msgstr "Files stored for up to 7 days."
+
+msgid "feature 4"
+msgstr "No bandwidth limits."
+
+msgid "feature 5"
+msgstr "Secure upload/download."
+
+msgid "feature 6"
+msgstr "Drag and drop."
+
+msgid "feature 7"
+msgstr "Pause/resume uploads"
+
+msgid "feature 8"
+msgstr "File Compression"
+
+msgid "feature 9"
+msgstr "Archive Compression"
+
+msgid "feature 10"
+msgstr "Finished transfer notification."
+
+msgid "requirement header"
+msgstr "System Requirements"
+
+msgid "requirement 0 title"
+msgstr "OS"
+
+msgid "requirement 0 info"
+msgstr "XP, Vista, Unix, Mac OS X 10.5+"
+
+msgid "requirement 1 title"
+msgstr "Browser"
+
+msgid "requirement 1 info"
+msgstr "IE6+, Firefox 2+, Safari 3+"
+
+msgid "requirement 2 title"
+msgstr "Java"
+
+msgid "requirement 2 info"
+msgstr "1.5+"
+
+msgid "requirement 3 title"
+msgstr "Network Bandwidth"
+
+msgid "requirement 3 info"
+msgstr "1.5 Mbps+"
+
+msgid "requirement 4 title"
+msgstr "Internet"
+
+msgid "requirement 4 info"
+msgstr "56k Dial up+"

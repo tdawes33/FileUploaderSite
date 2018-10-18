@@ -1,0 +1,91 @@
+
+label, button { text-transform: capitalize; }
+
+div.logo { background-image: url(../images/Inc2.png); width: 400px; height: 130px; }
+
+div.email_form { 
+    border: 3px solid #7c341a; background: #2b1209 url(../images/email_form.png) repeat; color: #ffffff;
+    width: 620px; padding-top: 18px; z-index: 20; margin: 8px auto 24px auto; position: relative; text-align: center;
+    -moz-border-radius: 28px; -webkit-border-radius: 28px;
+}
+
+div.recipients, div.subject, div.message_area { clear: both; margin: 4px 0; padding: 0; }
+div.recipients label, div.subject label { display: block; float: right; width: 16%; margin: 0; margin-right: 10px; color: #ffffff; font-size: 1.2em; text-align: right; }
+div.recipients input, div.subject input { display: block; float: right; width: 78%; padding: 0; margin: 0; margin-right: 10px; }
+div.email_form textarea { 
+    background: #ffffff url(../images/Inc2-bg.png) no-repeat top center; font-family: monospace; font-size: 1.1em; 
+    width: 598px; height: 144px; margin: 0; resize: none; 
+}
+
+div.attachments { position: relative; text-align: center; width: 620px; }
+div.attachments * { text-align: center; margin: 6px 0; }
+div.file_area {
+    border: 1px solid #a62900; background-color: #ffffff;
+    width: 600px; height: 160px;
+    margin: 6px auto; position: relative;
+}
+object.file_table { 
+    background-color: #ffffff; border: 0; text-align: center;
+    width: 598px; height: 158px; margin: 0; padding: 0; z-Index: 21; 
+}
+
+div.attachments_buttons { text-align: right; width: 600px; margin: 6px auto; position: relative; }
+div.attachments_buttons button { text-align: center; margin-left: 12px; padding: 2px 12px; float: right; }
+div.attachments_buttons button#filechooser_button { text-align: center; margin-left: 12px; padding: 2px 12px; float: right; clear: right; }
+div.status { float: left; color: #ffffff; font-size: 1.4em; }
+
+div.send_button { text-align: left; width: auto;  margin: 6px auto; float: left; margin-left: 10px; position: relative;  }
+div.send_button button { 
+    font-size: 1.2em; color: #000000; background-color: #ffffff; 
+    height: 34px; text-align: center; padding: 0 10px; 
+}
+div.toolbar { margin-left: 20px; float: left; position: relative; display: none; }
+div.toolbar button { margin: 6px 1px; padding: 1px 6px; float: left; background-color: #ffffff; height: 34px; }
+
+div.email_form div.copy { clear: both; width: 96%; color: #e0e0e0; font-size: 0.9em; text-align: right; padding: 8px; }
+
+div.preference_beam { 
+    position: absolute; top: 30px; left: 612px; width: 8px; height: 100px; z-index: 99;
+    background: #2b1209 url(../images/email_form.png) repeat fixed top left;
+}
+div.preferences { white-space: nowrap;
+    position: absolute; text-align: left; margin: 0 8px; display: none; min-width: 130px; top: 30px; left: 612px; padding: 8px 18px; z-index: 1;
+    border: 3px solid #7c341a; border-left: 0; background: #2B1209 url(../images/email_form.png) repeat fixed top left; color: #ffffff; 
+    -moz-border-radius-bottomright: 8px; -moz-border-radius-topright: 8px; 
+    -webkit-border-bottom-right-radius: 8px; -webkit-border-top-right-radius: 8px;
+}
+div.preference { text-align: left; margin: 0; display: block; }
+div.preference input#password { margin-top: 8px; width: 5.5em; border-width: 1px; }
+div.preference input { border-width: 0; }
+
+div.uploading_info { background: #000000; color: #ffffff; -moz-border-radius: 7px; -webkit-border-radius: 7px; position: relative; z-Index: 99; width: 480px; height: 130px; display: none; overflow: hidden; }
+div.uploading_info div { margin: 4px; }
+
+div.uploading_info div.progress { margin: 4px auto; width: 90%; width: 90%; overflow: hidden; }
+div.uploading_info div.progress_info { clear: both; margin: 1px auto; height: 1.6em; position: relative; padding: 0; }
+div.uploading_info div.progressbars { text-align: left; position: absolute; left: 10px; }
+div.uploading_info span.progressbar { color: #ffffff; margin-right: 8px; }
+div#current_file, div#total_upload { position: absolute; top: 0; left: 42%; height: 1.4em; white-space: nowrap; overflow: hidden; }
+div#rate { font-size: 1.2em; height: 1.2em; color: yellow; padding: 4px; position: relative; margin: auto; clear: both; }
+
+div.processing_holder { clear: both; float: left; height: 32px; }
+div.processing { float: left; margin: 0; width: 70%; position: relative; height: 32px; display: none; }
+div.processing img { height: 32px; width: 32px; margin: 0; }
+div.processing * { float: left; padding-right: 6px; }
+span#processing_info { font-style: italic; border: 1px dotted #303030; padding: 0; margin-bottom: 0; }
+
+.cluetip-default h3#cluetip-title { background-color: #FFDCC7; color: #000000; }
+.cluetip-default #cluetip-outer { background-color: #ffffff; }
+
+div.test_login { clear: both; background: #2B1209; color: white; padding: 10px; margin: 10px auto; }
+
+div.section { text-align: left; margin: 46px auto; width: 90%; border: 1px dashed #e0e0e0; }
+div.section_title { text-align: center; font-size: 1.2em; background-color: #666666; }
+
+
+.navigation .language_label { top: 18px; right: 20px; }
+.navigation .language_link { top: 18px; right: 20px ; }
+.language_link a { color: #b91e11; }
+
+.toolbar_button { width: 27px; height: 27px; }
+.processing_icon { width :32px; height: 32px; }

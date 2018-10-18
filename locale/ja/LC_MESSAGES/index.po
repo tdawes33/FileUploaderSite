@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#{Inc} {<span class="highlight">} is an easy and secure way to transfer large computer files {</span>} from one computer to another, using the Internet. {Inc} is a browser-based applet which can transfer large files from one person to another.
+#, c-format
+msgid "pitch one"
+msgstr "%1$s は、インターネットを経由して大容量ファイルを転送する、簡単で安全なメール転送サービスです。%2$s は、ブラウザ上で使用可能なJavaアプリケーション・プログラムで、Eメールを送信する要領で、簡単に大きなサイズのファイルの転送を行うことができます。"
+
+# "By sending file(s) to the server through our unique protocol, the sender can send the data to the server with a secure environment.{Inc} is the perfect tool for the company that has a server that cannot send large file(s) or that has a capacity limitation on the server."
+#, c-format
+msgid "pitch two"
+msgstr "独自の暗号化した通信方法を採用していますので、お客様は安全な環境でサーバにデータを送信することができます。%1$sは、『大容量ファイルを送信したいのに自社サーバでは対応できない』、『サーバに要領制限がある』など、大容量ファイルの転送に制限のあるお客様に最適なサービスです。"
+
+msgid "feature header"
+msgstr "Inc の特徴"
+
+msgid "feature 0"
+msgstr "あらゆる種類のファイルをサポート"
+
+msgid "feature 1"
+msgstr "E メールの開封通知機能"
+
+msgid "feature 2"
+msgstr "E メール形式でのファイル転送"
+
+msgid "feature 3"
+msgstr "最大7日間保管"
+
+msgid "feature 4"
+msgstr "データ通信バンド幅の制限なし"
+
+msgid "feature 5"
+msgstr "安全な環境でのアップロード/ダウンロード"
+
+msgid "feature 6"
+msgstr "ドラッグ/ドロップ機能"
+
+msgid "feature 7"
+msgstr "アップロードの一時停止/再開"
+
+msgid "feature 8"
+msgstr "ファイル圧縮送信機能"
+
+msgid "feature 9"
+msgstr "フォルダ圧縮送信機能"
+
+msgid "feature 10"
+msgstr "転送完了の通知機能"
+
+msgid "requirement header"
+msgstr "システム要件"
+
+msgid "requirement 0 title"
+msgstr "OS"
+
+msgid "requirement 0 info"
+msgstr "XP, Vista, Unix, Mac OS X 10.5+"
+
+msgid "requirement 1 title"
+msgstr "ブラウザ"
+
+msgid "requirement 1 info"
+msgstr "IE6+, Firefox 2+, Safari 3+"
+
+msgid "requirement 2 title"
+msgstr "Java"
+
+msgid "requirement 2 info"
+msgstr "1.5+"
+
+msgid "requirement 3 title"
+msgstr "通信環境"
+
+msgid "requirement 3 info"
+msgstr "1.5 Mbps+"
+
+msgid "requirement 4 title"
+msgstr "インターネット接続"
+
+msgid "requirement 4 info"
+msgstr "56k ダイヤルアップ+"

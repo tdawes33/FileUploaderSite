@@ -1,0 +1,43 @@
+
+div.pitch { width: 585px; float: left; height: 100%; margin: 0; }
+div.pitch_headline { margin: 0; }
+div.pitch_visual { height: 134px; width: 540px; margin: auto; padding-top: 15px; }
+#pitch_animation { width: 360px; height: 134px; float: left; }
+div.free_trial { height: 134px; float: left; }
+a.free_trial { cursor: pointer !important; }
+img.free_trial { width: 180px; height: 134px; }
+div.pitch_content { margin: 32px auto; clear: both; width: 90%; }
+div.pitch_content div { margin-top: 12px; }
+
+div.bullet_points { width: 280px; float: right; margin-top: 18px; }
+div.bullets { margin: 5px auto; width: 220px; }
+div.bullets div { background: transparent url(../images/bullet-line.png) scroll no-repeat bottom left; font-weight: bold; font-size: 1.0em; line-height: 1.3em; white-space: nowrap; }
+div.bullets div span { font-weight: normal; }
+div.bullets div.heading { background: none; font-size: 1.2em; }
+.requirement { font-weight: normal; margin-left: 2px; }
+
+div.signin_info_container { 
+    font-size: 1.1em; color: #a62900; text-align: left;
+    position: absolute; top: -10px; left: 590px; width: 360px; height: 35px;
+}
+div.signin_info_container .signin_info { position: absolute; bottom: 0; left: 0; background-color: #a1a8b0; }
+
+div.signin_area { width: 287px; height: 100px; float: right; position: relative; margin-top: 24px; text-align: right; }
+div.signin_bg { 
+    background: transparent url(../images/signin.png) no-repeat; 
+    width: 290px; height: 100px; margin: auto; padding-top: 8px;
+}
+
+div.signin_entry { width: 86%; margin: 2px auto; position: relative; text-align: right; }
+div.signin_entry:after {
+    content: "."; display: block; visibility: hidden;
+    height: 0; clear: both;
+}
+div.signin_entry input { border: 1px solid #a62900; width: 60%; }
+div.signin_entry label { width: 30%; text-transform: capitalize; color: #a62900; font-weight: bold; text-align: right; }
+div.signin_button { position: relative; width: 100%; right: 20px; margin-top: 6px; font-size: 1.2em; }
+div.signin_area button { font-size: 0.9em;  background: #ffffff; margin: 0 auto; float: right; margin-bottom: 12px; }
+
+div.signin_button label { float: right; font-style: italic; font-size: 0.9em; margin: 6px 2px 0 0; font-weight: bold; color: #a62900; height: 1em; white-space: nowrap; }
+input#forgot_password { visibility: hidden; }
+

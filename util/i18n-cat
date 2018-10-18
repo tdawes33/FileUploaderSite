@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+for PO_FILE in locale/*/LC_MESSAGES/*.po; do 
+    msgfmt -o `dirname $PO_FILE`/`basename $PO_FILE .po`.mo $PO_FILE; 
+done
+

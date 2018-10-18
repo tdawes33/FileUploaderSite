@@ -1,0 +1,64 @@
+#!/usr/bin/env php
+<?php
+require 'include/db.php';
+
+define('DATA_SOURCE', 'sqlite:' . DATA_DIR . '/' . DATA_FILE);
+
+$trial_table_schema = <<<SQL
+create table "main"."trial" (
+    id integer primary key autoincrement not null,
+    created text not null default current_timestamp,
+    email text not null unique check(length(email) < 321),
+    password text not null check(length(password) < 16),
+    first_name text not null check(length(first_name) < 129),
+    last_name text not null check(length(last_name) < 129),
+    phone text not null check(length(phone) < 65),
+    state integer not null default 0,
+    key text not null unique check(length(email) < 48),
+    request_date text not null default current_timestamp,
+    start_date text, 
+    end_date text 
+)
+SQL;
+
+$trial_state_table_schema = <<<SQL
+create table "main"."trial_state" (
+    id integer primary key not null,
+    value text not null unique check(length(value) < 256)
+)
+SQL;
+
+$trial_state_values = array("requested", "confirmed", "active", "expired");
+$trial_state_table_sql = 'insert into "main"."trial_state" (id, value) values (?, ?)';
+
+$password_reset_table_schema = <<<SQL
+create table "main"."password_reset_request" (
+    id integer primary key autoincrement not null,
+    email text not null unique check(length(email) < 321),
+    key text not null unique check(length(email) < 48),
+    language text not null unique check(length(language) < 128),
+    expiry text not null default current_timestamp)
+SQL;
+
+if (!($db = new PDO(DATA_SOURCE)))
+    die(join(', ', $db->errorInfo()) . "\n");
+
+if (!$db->query($trial_table_schema))
+    print join(', ', $db->errorInfo()) . "\n";
+
+if (!$db->query($trial_state_table_schema))
+    print join(', ', $db->errorInfo()) . "\n";
+
+if (!($stmt = $db->prepare($trial_state_table_sql)))
+    die(join(', ', $db->errorInfo()) . "\n");
+
+foreach ($trial_state_values as $key=>$value) { 
+    if (!$stmt->execute(array($key, $value)))
+        print join(', ', $stmt->errorInfo()) . "\n";
+}
+
+if (!$db->query($password_reset_table_schema))
+    print join(', ', $db->errorInfo()) . "\n";
+
+
+?>

@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "language"
+msgstr "English"
+
+msgid "site title"
+msgstr "SendInc.com"
+
+msgid "home tip"
+msgstr "Go to home page"
+
+msgid "free-trial link"
+msgstr "free trial"
+
+msgid "free-trial tip"
+msgstr "Try for free!"
+
+msgid "overview link"
+msgstr "overview"
+
+msgid "overview tip"
+msgstr "How it works"
+
+msgid "pricing link"
+msgstr "pricing"
+
+msgid "pricing tip"
+msgstr "Low cost"
+
+msgid "newsletter link"
+msgstr "newsletter"
+
+msgid "newsletter tip"
+msgstr "See what's new"
+
+msgid "support link"
+msgstr "support"
+
+msgid "support tip"
+msgstr "Get some help"
+
+msgid "i18n link"
+msgstr "Intl."
+
+msgid "i18n tip"
+msgstr "Other languages"
+
+msgid "i18n header"
+msgstr "Choose your language"
+
+msgid "sign in header"
+msgstr "Sign in"
+
+msgid "sign out header"
+msgstr "Sign out"
+
+msgid "sign in fields required"
+msgstr "Both fields are required"
+
+msgid "sign in invalid"
+msgstr "Email/Password is invalid"
+
+msgid "username label"
+msgstr "Email"
+
+msgid "password label"
+msgstr "password"
+
+msgid "index title"
+msgstr "Inc 2.0 - Sending large files? No problem."
+
+msgid "free-trial title"
+msgstr "Try for free!"
+
+msgid "overview title"
+msgstr "How it works"
+
+msgid "pricing title"
+msgstr "Pricing"
+
+msgid "newsletter title"
+msgstr "Subscribe to the newsletter"
+
+msgid "support title"
+msgstr "Get some help"
+
+msgid "client title"
+msgstr "Mail Client"
+
+msgid "Inc privacy policy"
+msgstr "IncINC Privacy Policy"
+
+msgid "greater than"
+msgstr "exceeds"
+
+msgid "entry type max"
+msgstr "character max"
+
+msgid "email label"
+msgstr "Email"
+
+msgid "name label"
+msgstr "name"
+
+msgid "newsletter action label"
+msgstr "subscribe"
+
+msgid "language label"
+msgstr "language"
+
+msgid "os label"
+msgstr "operating system"
+
+msgid "memory label"
+msgstr "memory"
+
+msgid "disk space label"
+msgstr "disk space"
+
+msgid "subject label"
+msgstr "subject"
+
+msgid "phone number label"
+msgstr "phone"
+
+msgid "details label"
+msgstr "details"
+
+msgid "submit label"
+msgstr "send"
+
+#, c-format
+msgid "beta message"
+msgstr "We are currently in beta testing, but you can still receive your free trial of %1$s by contacting us today."
+
+msgid "subscribe message"
+msgstr "Please fill out your Email address and your name. Then select either Subscribe or Unsubscribe."
+
+msgid "subscribe label"
+msgstr "subscribe"
+
+msgid "unsubscribe label"
+msgstr "unsubscribe"
+
+msgid "support subject 1"
+msgstr "How to use Inc"
+
+msgid "support subject 2"
+msgstr "Inc bug found"
+
+msgid "coming soon"
+msgstr "Coming soon!"
+
+#, c-format
+msgid "request received"
+msgstr "%1$s request has been received."
+
+#, c-format
+msgid "request error"
+msgstr "Error sending %1$s request. An administrator has been notified."
+
+msgid "trial request received"
+msgstr "Free-trial request has been received."
+
+msgid "trial request error"
+msgstr "Error sending free-trial request. An administrator has been notified."
+
+msgid "newsletter request received"
+msgstr "Newsletter request has been received."
+
+msgid "newsletter request error"
+msgstr "Error sending newsletter request. An administrator has been notified."
+
+msgid "support request received"
+msgstr "Support request has been received."
+
+msgid "support request error"
+msgstr "Error sending support request. An administrator has been notified."
+
+msgid "first name label"
+msgstr "first name"
+
+msgid "last name label"
+msgstr "last name"
+
+msgid "all fields required"
+msgstr "* all fields are required"
+
+msgid "admin title"
+msgstr "Administrator Login"
+
+msgid "login label"
+msgstr "login"
+
+msgid "login message"
+msgstr "Log in here to access the Inc Administration screen."
+
+msgid "login syntax"
+msgstr "Please type your Email address in lower case."
+
+msgid "password syntax"
+msgstr "Your password will appear as ***** as you type."
+
+msgid "beta message detail"
+msgstr "Free trial includes:"
+
+msgid "beta message traffic"
+msgstr "10GB Traffic limit (upload + downloads)"
+
+msgid "beta message disk"
+msgstr "150MB Disk space"
+
+msgid "beta message fineprint"
+msgstr "*Free trial accounts will expire one month after activation date."
+
+#, c-format
+msgid "user not available"
+msgstr "%1$s is not available."
+
+msgid "forgot password label"
+msgstr "I forgot my password"
+
+msgid "email required"
+msgstr "Please enter your email"
+
+msgid "password reset sent"
+msgstr "Please check your email for the reset instructions."
+
+msgid "password reset duplicate error"
+msgstr "A reset request has already been accepted."
+
+msgid "password reset description"
+msgstr "Password reset"
+
+msgid "password reset email subject"
+msgstr "Password reset"
+
+msgid "click the link for new password"
+msgstr "Please click the link below to choose a new password for your account."
+
+#, c-format
+msgid "link expires after %1$s hour"
+msgid_plural "link expires after %1$s hours"
+msgstr[0] "This link will expire after %1$s hour."
+msgstr[1] "This link will expire after %1$s hours."
+
+msgid "expired password reset request"
+msgstr "The password reset request has expired, please create a new request."
+
+msgid "copy/paste the link for new password"
+msgstr "If the link fails, copy and paste the URL in to a browser address bar"
+
+msgid "safely ignore this message"
+msgstr "If the believe you have received this message in error, you can safely ignore it. No action is required."
+
+msgid "email not recognized"
+msgstr "That email is not recognized"
+
+msgid "please contact us"
+msgstr "Please contact us if you have any questions"
+
+msgid "activation email expiration notice"
+msgstr "*This account will expire one month from today."
+
+msgid "activation email login info"
+msgstr "Here is your login information"
+
+msgid "activation email thanks"
+msgstr "Thank you for confirming your request for a free trial of Inc. Your trial account is now active."
+
+msgid "activation email subject"
+msgstr "Free Trial (Activation Email)"
+
+msgid "confirmation email thanks"
+msgstr "Thank you for subscribing to a one month free trial of Inc. Please click on the link below to confirm your request."
+
+msgid "confirmation email subject"
+msgstr "Free Trial (Confirmation Email)"
+
+msgid "server error"
+msgstr "A server error has occurred. Please try again later."
+
+msgid "plan label"
+msgstr "plan"
+
+msgid "plan 1 overview"
+msgstr "10GB for $25/month"
+
+msgid "plan 2 overview"
+msgstr "40GB for $75/month"
+
+msgid "plan 3 overview"
+msgstr "80GB for $150/month"
+
+msgid "plan 4 overview"
+msgstr "150GB $250/month"
+
+msgid "applied plan"
+msgstr "*10GB of traffic capacity can transfer data equivalent to 2 DVDs or 14CD-ROMs. (Actual capacity varies by contents)"
+
+msgid "overlimit plan"
+msgstr "(If you go over the monthly traffic limit, you will be charged an additional $2/GB usage fee.)"
+
+msgid "subscription form"
+msgstr "subscription form (PDF File)" 
+
+#, c-format
+msgid "subscribe instructions"
+msgstr "To subscribe, download a %1$s, fill it out and fax it to us. We will contact you and get you set up as soon as possible."
+
+#, c-format
+msgid "discount"
+msgstr "<a href='http://inc.net'>.net</a> users can receive a special discount. For more information, please contact <a href='mailto:%1$s'>Inc Sales &lt;%2$s&gt;</a>."
+
+msgid "Inc_about_link"
+msgstr "About Us" 
+
+msgid "Inc_about_url"
+msgstr "http://Incinc.com/us/about.htm"

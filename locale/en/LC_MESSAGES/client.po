@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "send label"
+msgstr "send ..."
+
+msgid "send tooltip"
+msgstr "Begin the upload of your Email message and the attachments"
+
+msgid "clear tooltip"
+msgstr "Clear the Email form and remove all attachments"
+
+msgid "paused tooltip"
+msgstr "Open viewer for Email uploads which have not completed"
+
+msgid "history tooltip"
+msgstr "Load Email history page"
+
+msgid "addressbook tooltip"
+msgstr "Open your Inc addressbook"
+
+msgid "preferences tooltip"
+msgstr "Display preferences"
+
+msgid "help tooltip"
+msgstr "Open the help viewer"
+
+msgid "to label"
+msgstr "to:"
+
+msgid "to tooltip"
+msgstr "To add multiple Email addresses, separate with commas "
+
+msgid "subject label"
+msgstr "subject:"
+
+msgid "delete label"
+msgstr "delete"
+
+msgid "delete tooltip"
+msgstr "Remove selected files from the attachment list"
+
+msgid "file browse label"
+msgstr "file..."
+
+msgid "file browse tooltip"
+msgstr "Select files from the file browser.  Multiple files may be added by holding the Ctrl key while selected. To add a range of files use the Shift key while selecting"
+
+msgid "filename header" 
+msgstr "File Name"
+
+msgid "size header"
+msgstr "Size"
+
+msgid "path header"
+msgstr "Path"
+
+msgid "zip archive menuitem" 
+msgstr "Create an Archive"
+
+msgid "delete menuitem"
+msgstr "Delete"
+
+msgid "paste menuitem"
+msgstr "Paste"
+
+msgid "select all menuitem"
+msgstr "Select All"
+
+msgid "archive label"
+msgstr "Archive File Folders"
+
+msgid "archive tooltip"
+msgstr "Folder contents will be archived as a single file"
+
+msgid "compress label"
+msgstr "Compress Files"
+
+msgid "compress tooltip"
+msgstr "Files and archives will be compressed before sending"
+
+msgid "ssl label"
+msgstr "Secure upload"
+
+msgid "ssl tooltip"
+msgstr "Transmit Email and attachments over a secure connection"
+
+msgid "download notice label"
+msgstr "Notification on Download"
+
+msgid "download notice tooltip"
+msgstr "Receive an Email notification when a recipient begins downloading"
+
+msgid "preservation label"
+msgstr "Preservation Days"
+
+msgid "preservation tooltip"
+msgstr "The number of days you would like the files to be available"
+
+msgid "password label"
+msgstr "Password-Protect"
+
+msgid "password tooltip"
+msgstr "Enter an optional password to protect the download. Recipients will receive the password in a separate email."
+
+msgid "invalid password msg"
+msgstr "The password must be 4-10 characters long"
+
+msgid "files submit info"
+msgstr "Total : "
+
+msgid "invalid email msg"
+msgstr "Please enter a valid Email address [use commas to separated multiple Email address]"
+
+msgid "no attachments msg"
+msgstr "At least one attachment is required for Inc to send an Email"
+
+msgid "empty subject warn"
+msgstr "No subject entered"
+
+msgid "empty message warn"
+msgstr "No Email message entered"
+
+msgid "confirm send"
+msgstr "Send anyway?"
+
+msgid "txing"
+msgstr "Sending "
+
+msgid "total progress label"
+msgstr "Total Upload Progress"
+
+msgid "cancel send"
+msgstr "Cancel"
+
+msgid "pause send"
+msgstr "Pause"
+
+msgid "resume send"
+msgstr "Resume"
+
+msgid "finished"
+msgstr "Done"
+
+msgid "unable"
+msgstr "OK"
+
+msgid "one"
+msgstr "1"
+
+msgid "three"
+msgstr "3"
+
+msgid "five"
+msgstr "5"
+
+msgid "seven"
+msgstr "7"
+
+msgid "confirm clear"
+msgstr "Clear entered information?"
+
+msgid "message exceeds msg"
+msgstr "The Email's message body is too long. Max: "
+
+msgid "subject exceeds msg"
+msgstr "The Email's subject is too long. Max: "
+
+msgid "recipients exceeds msg"
+msgstr "The Email's recipients input is too long. Max: "
+
+msgid "processing"
+msgstr "Processing attachment list. (click to abort)"
+
+msgid "processing complete"
+msgstr "Processing complete"
+
+msgid "confirm processing abort"
+msgstr "Abort file processing?"
+
+msgid "no email during processing"
+msgstr "Processing the file list, please wait before sending."
+
+msgid "unsent warning"
+msgstr "Message has not been sent. Continuing will abandon it."
+
+msgid "emailing warning"
+msgstr "An Email upload is in progress. Continuing will end the upload"
+
+msgid "java required"
+msgstr "%1$s requires %2$s or higher, which your browser does not appear to have."

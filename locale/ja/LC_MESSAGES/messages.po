@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: m-2.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-11-19 17:44-0800\n"
+"Last-Translator: Timothy Dawes <timothy.dawes@Incinc.com>\n"
+"Language-Team: r&d <randd@Incinc.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "language"
+msgstr "日本語"
+
+msgid "site title"
+msgstr "SendInc.com"
+
+msgid "home tip"
+msgstr "ホームへ戻る"
+
+msgid "free-trial link"
+msgstr "無料トライアル"
+
+msgid "free-trial tip"
+msgstr "無料でお試しください！"
+
+msgid "overview link"
+msgstr "サービス概要"
+
+msgid "overview tip"
+msgstr "Mとは？"
+
+msgid "pricing link"
+msgstr "ご利用料金"
+
+msgid "pricing tip"
+msgstr "サービスのご利用料金について"
+
+msgid "newsletter link"
+msgstr "ニュースレター"
+
+msgid "newsletter tip"
+msgstr "最新ニュースの購読はこちらから"
+
+msgid "support link"
+msgstr "サポート"
+
+msgid "support tip"
+msgstr "ご質問・お問い合わせはこちらから"
+
+msgid "i18n link"
+msgstr "他の言語"
+
+msgid "i18n tip"
+msgstr "他の言語"
+
+msgid "i18n header"
+msgstr "言語選択"
+
+msgid "sign in header"
+msgstr "サインイン"
+
+msgid "sign out header"
+msgstr "サインアウト"
+
+msgid "sign in fields required"
+msgstr "E メール/パスワードは必須項目です。"
+
+msgid "sign in invalid"
+msgstr "E メール、またはパスワードが無効です。"
+
+msgid "username label"
+msgstr "E メール"
+
+msgid "password label"
+msgstr "パスワード"
+
+msgid "index title"
+msgstr "Inc 2.0 - 大容量ファイル転送サービス"
+
+msgid "free-trial title"
+msgstr "無料トライアル"
+
+msgid "overview title"
+msgstr "Mとは？"
+
+msgid "pricing title"
+msgstr "ご利用料金"
+
+msgid "newsletter title"
+msgstr "ニュースレター購読"
+
+msgid "support title"
+msgstr "サポート"
+
+msgid "client title"
+msgstr "メールクライアント"
+
+msgid "Inc privacy policy"
+msgstr "IncINC プライバシーポリシーについて"
+
+msgid "greater than"
+msgstr "を超えて"
+
+msgid "entry type max"
+msgstr "最大文字数"
+
+msgid "email label"
+msgstr "E メール"
+
+msgid "name label"
+msgstr "お名前"
+
+msgid "newsletter action label"
+msgstr "購読希望 / 配信停止"
+
+msgid "language label"
+msgstr "言語"
+
+msgid "os label"
+msgstr "OS"
+
+msgid "memory label"
+msgstr "メモリ"
+
+msgid "disk space label"
+msgstr "ディスクの空き容量"
+
+msgid "subject label"
+msgstr "内容"
+
+msgid "phone number label"
+msgstr "電話番号"
+
+msgid "details label"
+msgstr "詳細"
+
+msgid "submit label"
+msgstr "送信"
+
+# "We are currently in beta testing, but you can still receive your free trial of {Inc} by contacting us today."
+#, c-format
+msgid "beta message"
+msgstr "現在 %1$s はベータテスト中です。%2$s 無料トライアルをご希望の方は、こちらからお申し込みください。"
+
+msgid "subscribe message"
+msgstr "以下のフォームにて、E メールアドレスとお名前をご記入の上、購読希望または配信停止のいずれかを選択してください。"
+
+msgid "subscribe label"
+msgstr "購読希望"
+
+msgid "unsubscribe label"
+msgstr "配信停止"
+
+msgid "support subject 1"
+msgstr "Inc の使い方について"
+
+msgid "support subject 2"
+msgstr "Inc の不具合報告"
+
+msgid "coming soon"
+msgstr "準備中です。"
+
+#, c-format
+msgid "request received"
+msgstr "リクエストが送信されました。"
+
+#, c-format
+msgid "request error"
+msgstr "%1$s のリクエストを送信中にエラーが発生しました。エラー内容は管理者に報告されました。"
+
+msgid "trial request received"
+msgstr "無料トライアルのお申込みが完了しました。"
+
+msgid "trial request error"
+msgstr "無料トライアルのお申込みリクエストを送信中にエラーが発生しました。エラー内容は管理者に報告されました。"
+
+msgid "newsletter request received"
+msgstr "ニュースレター購読のお申し込みが完了しました。"
+
+msgid "newsletter request error"
+msgstr "ニュースレター購読のお申し込みリクエストを送信中にエラーが発生しました。エラー内容は管理者に報告されました。"
+
+msgid "support request received"
+msgstr "お問い合わせ内容が送信されました。"
+
+msgid "support request error"
+msgstr "お問い合わせ内容を送信中にエラーが発生しました。エラー内容は管理者に報告されました。"
+
+msgid "first name label"
+msgstr "名字"
+
+msgid "last name label"
+msgstr "名前"
+
+msgid "all fields required"
+msgstr "すべて必須項目ですので、必ずご記入ください。"
+
+msgid "admin title"
+msgstr "管理者ログイン"
+
+msgid "login label"
+msgstr "ログイン"
+
+msgid "login message"
+msgstr "Incの管理画面を利用する場合は、こちらからログインをしてください。"
+
+msgid "login syntax"
+msgstr "Eメールアドレスは全て小文字で入力ください。"
+
+msgid "password syntax"
+msgstr "パスワードは ***** と入力されました。"
+
+msgid "beta message detail"
+msgstr "無料トライアルの内容:"
+
+msgid "beta message traffic"
+msgstr "転送容量 10GBまで(アップロード、ダウンロード)"
+
+msgid "beta message disk"
+msgstr "ディスクスペース150MB"
+
+msgid "beta message fineprint"
+msgstr "*無料トライアルは開始した日から１ヶ月間ご利用いただけます。"
+
+#, c-format
+msgid "user not available"
+msgstr "%1$s は使用できません。"
+
+msgid "forgot password label"
+msgstr "パスワードを忘れた方はこちら"
+
+msgid "email required"
+msgstr "emailを入力してください。"
+
+msgid "password reset sent"
+msgstr "リクエスト時に受信したＥメールをご確認ください。"
+
+msgid "password reset duplicate error"
+msgstr "パスワードのリセットを既にリクエスト済みです。"
+
+msgid "password reset description"
+msgstr "パスワードのリセット"
+
+msgid "password reset email subject"
+msgstr "パスワードのリセット"
+
+msgid "click the link for new password"
+msgstr "下記のリンクをクリックして、新しいパスワードの設定を行ってください。"
+
+#, c-format
+msgid "link expires after %1$s hour"
+msgid_plural "link expires after %1$s hours"
+msgstr[0] "%1$s 時間後にこのリンクは期限切れとなります。"
+msgstr[1] "%1$s 時間後にこのリンクは期限切れとなります。"
+
+msgid "expired password reset request"
+msgstr "パスワードのリセットのリクエスト期限が切れました。再度行ってください。"
+
+msgid "copy/paste the link for new password"
+msgstr "リンクをクリックしてもページが正しく表示されない場合は、リンクをコピーしてブラウザのアドレスバーに貼り付けてください。"
+
+msgid "safely ignore this message"
+msgstr "パスワードのリセットをリクエストいただいていない場合は、お手数ですがこのままＥメールを破棄してください。"
+
+msgid "email not recognized"
+msgstr "E メールアドレスが認識できません。"
+
+msgid "please contact us"
+msgstr "ご質問がありましたら、弊社にご連絡ください。"
+
+msgid "activation email expiration notice"
+msgstr "*このアカウントは、本日より1ヶ月で期限切れとなります。"
+
+msgid "activation email login info"
+msgstr "こちらがログイン情報です。"
+
+msgid "activation email thanks"
+msgstr "Inc無料トライアルのリクエストの確認をしていただき、ありがとうございました。アカウントが有効となりました。"
+
+msgid "activation email subject"
+msgstr "無料トライアル（開始メール）"
+
+msgid "confirmation email thanks"
+msgstr "Incの1ヶ月間無料トライアルにお申し込みいただきありがとうございました。リクエストを確認するため下記のリンクをクリックしてください。"
+
+msgid "confirmation email subject"
+msgstr "無料トライアル（確認メール）"
+
+msgid "server error"
+msgstr "サーバーエラーが発生しました。後ほど再度お試しください。"
+
+msgid "plan label"
+msgstr "プラン"
+
+msgid "plan 1 overview"
+msgstr "10GBまで 25ドル/月額"
+
+msgid "plan 2 overview"
+msgstr "40GBまで 75ドル/月額"
+
+msgid "plan 3 overview"
+msgstr "80GBまで 150ドル/月額"
+
+msgid "plan 4 overview"
+msgstr "150GBまで 250ドル/月額"
+
+msgid "applied plan"
+msgstr "*10GBは、おおよそDVD2枚あるいは、CD-ROM14枚の容量にあたります。（実際の容量は内容により異なります。）"
+
+msgid "overlimit plan"
+msgstr "(1ヶ月のご契約容量を超過してご利用された場合は、１ＧＢにつき２ドルの追加料金が加算されます。)"
+
+msgid "subscription form"
+msgstr "ご契約申込書（PDFファイル）"
+
+#, c-format
+msgid "subscribe instructions"
+msgstr "サービスのご利用をご希望の際は、%1$sをダウンロードしていただき、ご記入の上ファックスでお申し込みください。弊社より、すぐにご連絡を差し上げ、サービスを開始できるよういたします。"
+
+#, c-format
+msgid "dreamersi discount"
+msgstr "<a href='http://dreamersi.net'>Dreamersi.net</a> users can receive a special discount. For more information, please contact <a href='mailto:%1$s'>Inc Sales &lt;%2$s&gt;</a>."
+
+msgid "Inc_about_link"
+msgstr "Incについて"
+
+msgid "Inc_about_url"
+msgstr "http://Incinc.com/us/about.htm"

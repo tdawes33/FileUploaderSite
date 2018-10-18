@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+ctags --exclude=jquery.ui.js --exclude=jquery.form.js --exclude=jquery.pngfix.js -R
+

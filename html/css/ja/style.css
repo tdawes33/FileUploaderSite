@@ -1,0 +1,11 @@
+
+body { font: normal 11px Meiryo, Arial, "MS Gothic", Helvetica, sans-serif; }
+
+
+div.pitch_headline { background: url(../../images/ja/pitch.png) no-repeat 0 0; width: 590px; height: 100px; }
+div.trial_headline { background: url(../../images/ja/trial.png) no-repeat 0 0; width: 690px; height: 100px; }
+div.overview_headline { background: url(../../images/ja/overview.png) no-repeat 0 0; width: 547px; height: 100px; }
+div.howitworks { background: url(../../images/ja/howitworks.png) no-repeat 0 0; width: 525px; height: 246px; }
+div.pricing_headline { background: url(../../images/ja/pricing.png) no-repeat 0 0; width: 547px; height: 100px; }
+div.newsletter_headline { background: url(../../images/ja/newsletter.png) no-repeat 0 0; width: 547px; height: 100px; }
+div.support_headline { background: url(../../images/ja/support.png) no-repeat 0 0; width: 547px; height: 100px; }
